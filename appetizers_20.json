@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Food Item 1",
+        "description": "Delicious and freshly prepared food item number 1, packed with flavor and nutrition.",
+        "price": 5.74,
+        "calories": 165,
+        "protein": 6,
+        "carbs": 21,
+        "imageURL": "https://picsum.photos/200/200?random=1"
+    },
+    {
+        "id": 2,
+        "name": "Food Item 2",
+        "description": "Delicious and freshly prepared food item number 2, packed with flavor and nutrition.",
+        "price": 6.49,
+        "calories": 180,
+        "protein": 7,
+        "carbs": 22,
+        "imageURL": "https://picsum.photos/200/200?random=2"
+    },
+    {
+        "id": 3,
+        "name": "Food Item 3",
+        "description": "Delicious and freshly prepared food item number 3, packed with flavor and nutrition.",
+        "price": 7.24,
+        "calories": 195,
+        "protein": 8,
+        "carbs": 23,
+        "imageURL": "https://picsum.photos/200/200?random=3"
+    },
+    {
+        "id": 4,
+        "name": "Food Item 4",
+        "description": "Delicious and freshly prepared food item number 4, packed with flavor and nutrition.",
+        "price": 7.99,
+        "calories": 210,
+        "protein": 9,
+        "carbs": 24,
+        "imageURL": "https://picsum.photos/200/200?random=4"
+    },
+    {
+        "id": 5,
+        "name": "Food Item 5",
+        "description": "Delicious and freshly prepared food item number 5, packed with flavor and nutrition.",
+        "price": 8.74,
+        "calories": 225,
+        "protein": 10,
+        "carbs": 25,
+        "imageURL": "https://picsum.photos/200/200?random=5"
+    },
+    {
+        "id": 6,
+        "name": "Food Item 6",
+        "description": "Delicious and freshly prepared food item number 6, packed with flavor and nutrition.",
+        "price": 9.49,
+        "calories": 240,
+        "protein": 11,
+        "carbs": 26,
+        "imageURL": "https://picsum.photos/200/200?random=6"
+    },
+    {
+        "id": 7,
+        "name": "Food Item 7",
+        "description": "Delicious and freshly prepared food item number 7, packed with flavor and nutrition.",
+        "price": 10.24,
+        "calories": 255,
+        "protein": 12,
+        "carbs": 27,
+        "imageURL": "https://picsum.photos/200/200?random=7"
+    },
+    {
+        "id": 8,
+        "name": "Food Item 8",
+        "description": "Delicious and freshly prepared food item number 8, packed with flavor and nutrition.",
+        "price": 10.99,
+        "calories": 270,
+        "protein": 13,
+        "carbs": 28,
+        "imageURL": "https://picsum.photos/200/200?random=8"
+    },
+    {
+        "id": 9,
+        "name": "Food Item 9",
+        "description": "Delicious and freshly prepared food item number 9, packed with flavor and nutrition.",
+        "price": 11.74,
+        "calories": 285,
+        "protein": 14,
+        "carbs": 29,
+        "imageURL": "https://picsum.photos/200/200?random=9"
+    },
+    {
+        "id": 10,
+        "name": "Food Item 10",
+        "description": "Delicious and freshly prepared food item number 10, packed with flavor and nutrition.",
+        "price": 12.49,
+        "calories": 300,
+        "protein": 5,
+        "carbs": 30,
+        "imageURL": "https://picsum.photos/200/200?random=10"
+    },
+    {
+        "id": 11,
+        "name": "Food Item 11",
+        "description": "Delicious and freshly prepared food item number 11, packed with flavor and nutrition.",
+        "price": 13.24,
+        "calories": 315,
+        "protein": 6,
+        "carbs": 31,
+        "imageURL": "https://picsum.photos/200/200?random=11"
+    },
+    {
+        "id": 12,
+        "name": "Food Item 12",
+        "description": "Delicious and freshly prepared food item number 12, packed with flavor and nutrition.",
+        "price": 13.99,
+        "calories": 330,
+        "protein": 7,
+        "carbs": 32,
+        "imageURL": "https://picsum.photos/200/200?random=12"
+    },
+    {
+        "id": 13,
+        "name": "Food Item 13",
+        "description": "Delicious and freshly prepared food item number 13, packed with flavor and nutrition.",
+        "price": 14.74,
+        "calories": 345,
+        "protein": 8,
+        "carbs": 33,
+        "imageURL": "https://picsum.photos/200/200?random=13"
+    },
+    {
+        "id": 14,
+        "name": "Food Item 14",
+        "description": "Delicious and freshly prepared food item number 14, packed with flavor and nutrition.",
+        "price": 15.49,
+        "calories": 360,
+        "protein": 9,
+        "carbs": 34,
+        "imageURL": "https://picsum.photos/200/200?random=14"
+    },
+    {
+        "id": 15,
+        "name": "Food Item 15",
+        "description": "Delicious and freshly prepared food item number 15, packed with flavor and nutrition.",
+        "price": 16.24,
+        "calories": 375,
+        "protein": 10,
+        "carbs": 20,
+        "imageURL": "https://picsum.photos/200/200?random=15"
+    },
+    {
+        "id": 16,
+        "name": "Food Item 16",
+        "description": "Delicious and freshly prepared food item number 16, packed with flavor and nutrition.",
+        "price": 16.99,
+        "calories": 390,
+        "protein": 11,
+        "carbs": 21,
+        "imageURL": "https://picsum.photos/200/200?random=16"
+    },
+    {
+        "id": 17,
+        "name": "Food Item 17",
+        "description": "Delicious and freshly prepared food item number 17, packed with flavor and nutrition.",
+        "price": 17.74,
+        "calories": 405,
+        "protein": 12,
+        "carbs": 22,
+        "imageURL": "https://picsum.photos/200/200?random=17"
+    },
+    {
+        "id": 18,
+        "name": "Food Item 18",
+        "description": "Delicious and freshly prepared food item number 18, packed with flavor and nutrition.",
+        "price": 18.49,
+        "calories": 420,
+        "protein": 13,
+        "carbs": 23,
+        "imageURL": "https://picsum.photos/200/200?random=18"
+    },
+    {
+        "id": 19,
+        "name": "Food Item 19",
+        "description": "Delicious and freshly prepared food item number 19, packed with flavor and nutrition.",
+        "price": 19.24,
+        "calories": 435,
+        "protein": 14,
+        "carbs": 24,
+        "imageURL": "https://picsum.photos/200/200?random=19"
+    },
+    {
+        "id": 20,
+        "name": "Food Item 20",
+        "description": "Delicious and freshly prepared food item number 20, packed with flavor and nutrition.",
+        "price": 19.99,
+        "calories": 450,
+        "protein": 5,
+        "carbs": 25,
+        "imageURL": "https://picsum.photos/200/200?random=20"
+    }
+]

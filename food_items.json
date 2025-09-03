@@ -37,7 +37,8 @@
         "calories": 500,
         "protein": 20,
         "carbs": 45,
-        "imageURL": "https://picsum.photos/200/300?random=4"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/Mozzarella-Sticks_0013.jpg"
+"
     },
     {
         "id": 5,
@@ -57,7 +58,8 @@
         "calories": 280,
         "protein": 8,
         "carbs": 12,
-        "imageURL": "https://picsum.photos/200/300?random=6"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/Stuffed-Mushrooms-main.jpg.webp"
+"
     },
     {
         "id": 7,
@@ -77,7 +79,8 @@
         "calories": 220,
         "protein": 24,
         "carbs": 5,
-        "imageURL": "https://picsum.photos/200/300?random=8"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/Dirty-Martini-Shrimp-Cocktail-FT-Recipe0624-17d9fd13705a402da5d673053929ba6a.jpg"
+"
     },
     {
         "id": 9,
@@ -87,7 +90,8 @@
         "calories": 510,
         "protein": 18,
         "carbs": 48,
-        "imageURL": "https://picsum.photos/200/300?random=9"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/FINAL-cheese-quesadilla-1-4.jpg"
+"
     },
     {
         "id": 10,
@@ -107,7 +111,8 @@
         "calories": 450,
         "protein": 40,
         "carbs": 0,
-        "imageURL": "https://picsum.photos/200/300?random=11"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/grilled-salmon-final-2.jpg"
+"
     },
     {
         "id": 12,
@@ -127,7 +132,9 @@
         "calories": 700,
         "protein": 22,
         "carbs": 80,
-        "imageURL": "https://picsum.photos/200/300?random=13"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/0a0717810b73a1672a029c29788e557b_creamy_alfredo_pasta_long_left_1200_628.jpg"
+"
+"
     },
     {
         "id": 14,
@@ -137,7 +144,8 @@
         "calories": 350,
         "protein": 12,
         "carbs": 20,
-        "imageURL": "https://picsum.photos/200/300?random=14"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/Caesar-Salad-TIMG.jpg"
+"
     },
     {
         "id": 15,
@@ -167,7 +175,8 @@
         "calories": 450,
         "protein": 6,
         "carbs": 60,
-        "imageURL": "https://picsum.photos/200/300?random=17"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/20250325120225-how-20to-20make-20chocolate-20molten-20lava-20cake-20in-20the-20microwave.png-2.webp"
+"
     },
     {
         "id": 18,
@@ -177,7 +186,8 @@
         "calories": 550,
         "protein": 25,
         "carbs": 50,
-        "imageURL": "https://picsum.photos/200/300?random=18"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/Beef-Tacos-1024x767.webp"
+"
     },
     {
         "id": 19,
@@ -187,7 +197,8 @@
         "calories": 600,
         "protein": 10,
         "carbs": 100,
-        "imageURL": "https://picsum.photos/200/300?random=19"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/Pancake-Recipe-1.jpg"
+"
     },
     {
         "id": 20,
@@ -197,6 +208,7 @@
         "calories": 480,
         "protein": 8,
         "carbs": 65,
-        "imageURL": "https://picsum.photos/200/300?random=20"
+        "imageURL": "https://raw.githubusercontent.com/ShashankYadav28/AppetizerApp/main/AppetizerData/images/brownie-sundae.jpg"
+"
     }
 ]

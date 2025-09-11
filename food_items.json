@@ -15,6 +15,7 @@
     "id": 2,
     "name": "Baked Chicken Wings",
     "description": "Crispy oven-baked chicken wings tossed in a spicy glaze.",
+    
     "price": 9.25,
     "calories": 450,
     "protein": 28,
